@@ -6,6 +6,11 @@
 -Login-Regirster 
     -Sign in / signup form
     -redirect to browser page 
+    -Header
+    -Login form
+    -Sign up form
+
+
 -Browse(Afte athentication)
     -Header 
     -Main Movie 
